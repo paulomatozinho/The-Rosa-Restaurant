@@ -1,4 +1,4 @@
-# THE ROSA
+# The Rosa
 Criação de Website inspirado em um restaurante.
 
 ## Sobre o Projeto
@@ -15,7 +15,9 @@ Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de 
   
 
 ***Overview***
+
 ![video](Anima%C3%A7%C3%A3o.gif)
+
 ---
 
 ## Referências
